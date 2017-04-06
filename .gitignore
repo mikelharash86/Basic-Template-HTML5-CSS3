@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+	<title>Document</title>
+	<link href="https://fonts.googleapis.com/css?family=Revalia:300,400,700" rel="stylesheet">
+	<link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+
+<div class="card">
+	
+	<div class="card-header" style="background-image: url(./images/connor-duncan.png)">
+
+		<div class="card-header-bar">
+
+		<a href="#" class="btn-play"> <span class="sr-only">Message</span></a>
+		<a href="#" class="btn-menu"> <span class="sr-only">Menu</span></a>
+
+		</div>
+		
+		<div class="card-header-slanted-edge">
+			
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 199">
+			<path class="polygon" d="M-20,200,1000,0v200z" /> </svg>
+
+			
+			<a href="" class="btn-follow"><span class="sr-only">Follow</span></a>
+
+		</div>
+		
+
+	</div>
+
+	<div class="card-body">
+		
+		<h2 class="name">Connor Duncan</h2>
+		<h4 class="job-title">Country Music</h4>
+		<div class="bio">The Highway is a hit country music radio channel on Sirius XM channel 56, and 56 on XM and channel 6056 on Dish Network. It plays no commercials.</div>
+		<div class="social-accounts">
+		
+		<a href="#"><img src="./images/dribble-logo.svg" alt=""><span class="sr-only">Dribble</span></a>
+		<a href="#"><img src="./images/facebook-square-logo.svg" alt=""><span class="sr-only">Facebook</span></a>	
+		<a href="#"><img src="./images/spotify-logo-button.svg" alt=""><span class="sr-only">Spotify</span></a>	
+		<a href="#"><img src="./images/twitter-sign.svg" alt=""><span class="sr-only">Twitter</span></a>		
+
+		</div>
+
+
+	</div>
+
+
+		<div class="card-footer">
+
+		<div class="stat">
+
+		<div class="stat">
+			
+		<div class="stat">
+			
+			<span class="label">Followeing</span>
+			<span class="value">65K</span>
+		</div>
+		<div class="stat">
+			
+			<span class="label">Followers</span>
+			<span class="value">15K</span>
+		</div>
+		<div class="stat">
+			
+			<span class="label">Popularity</span>
+			<span class="value">125K</span>
+		</div>
+
+
+		</div>
+
+		</div>	
+		
+
+	</div>
+</div>
+
+	
+</body>
+</html>
